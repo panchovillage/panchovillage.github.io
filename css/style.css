@@ -10,12 +10,12 @@
 /* variáveis */
 
 :root {
- main-color: #3007d3;
- main-text-color: #ffffff;
- border-color: #999;
- bio-bg-color: #ffffff;
- bio-border-color: #293544;
- about-bg-color: #111821;
+    -- main-color: #3007d3;
+    -- main-text-color: #ffffff;
+    -- border-color: #999;
+    -- bio-bg-color: #ffffff;
+    -- bio-border-color: #293544;
+    -- about-bg-color: #111821;
  }
 
  /*Geral*/
